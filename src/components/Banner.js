@@ -1,12 +1,12 @@
 import React from "react";
 import emoji from "../assets/memoji.png";
-import cv from "../assets/roi-angelo-seminiano.pdf";
+import cv from "../assets/gary-matalote.pdf";
 
 const Banner = () => {
   const handleDownload = () => {
     const link = document.createElement("a");
     link.href = cv;
-    link.download = "roi-angelo-seminiano.pdf";
+    link.download = "gary-matalote.pdf";
     link.click();
   };
 
