@@ -38,7 +38,7 @@ const ReachMe = () => {
             <a
               target="_blank"
               class="text-xs md:text-sm"
-              href="https://www.linkedin.com/in/gary-matalote"
+              href="https://ph.linkedin.com/in/gary-matalote-08b073140"
             >
               LinkedIn
             </a>
