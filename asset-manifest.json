@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my-react-project/static/css/main.3c22de0e.css",
-    "main.js": "/my-react-project/static/js/main.0cfe94d8.js",
+    "main.js": "/my-react-project/static/js/main.49558764.js",
     "static/js/787.624ad79f.chunk.js": "/my-react-project/static/js/787.624ad79f.chunk.js",
     "static/media/work-2-img.jpeg": "/my-react-project/static/media/work-2-img.a871612a62eb33ecbfc1.jpeg",
     "static/media/gary-matalote.pdf": "/my-react-project/static/media/gary-matalote.705c205e7d14e426104e.pdf",
     "static/media/linkedin.png": "/my-react-project/static/media/linkedin.b0256e639e017e2a7389.png",
-    "static/media/memoji.png": "/my-react-project/static/media/memoji.5ab62724b18859d7a9bf.png",
     "static/media/work-3-img.jpeg": "/my-react-project/static/media/work-3-img.9cca1ff80d9dbd6a4b12.jpeg",
+    "static/media/memoji.png": "/my-react-project/static/media/memoji.16c0eb8654942d5cfb2c.png",
     "static/media/db.png": "/my-react-project/static/media/db.d3dd03ef88be5f14e9f7.png",
     "static/media/email.png": "/my-react-project/static/media/email.2b7109d2da77e1670cf7.png",
     "static/media/ph-icon.png": "/my-react-project/static/media/ph-icon.fba3eb79466bd886ad31.png",
@@ -16,11 +16,11 @@
     "static/media/angular.png": "/my-react-project/static/media/angular.eb61c8fa009d1215b265.png",
     "index.html": "/my-react-project/index.html",
     "main.3c22de0e.css.map": "/my-react-project/static/css/main.3c22de0e.css.map",
-    "main.0cfe94d8.js.map": "/my-react-project/static/js/main.0cfe94d8.js.map",
+    "main.49558764.js.map": "/my-react-project/static/js/main.49558764.js.map",
     "787.624ad79f.chunk.js.map": "/my-react-project/static/js/787.624ad79f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c22de0e.css",
-    "static/js/main.0cfe94d8.js"
+    "static/js/main.49558764.js"
   ]
 }
