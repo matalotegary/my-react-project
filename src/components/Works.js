@@ -1,31 +1,31 @@
 import React from "react";
-import work2 from "../assets/work-2-img.jpeg";
-import work3 from "../assets/work-3-img.jpeg";
+import work2 from "../assets/work-3-img.png";
+import work3 from "../assets/work-4-img.png";
 
 const works = [
   {
-    title: "Catering Management",
-    description: `Catering management web application revolutionizing event organization by streamlining tasks such as data maintenance, event booking, contract generation, and report generation.`,
-    previewImage: work3,
+    title: "Ticketing System",
+    description: `A comprehensive ticketing system designed to streamline the submission and tracking of support requests. Users can easily submit inquiries, monitor the status of their requests in real time, and engage in discussions with support staff directly through the platform. This system enhances communication, ensuring that users receive timely updates and resolutions to their issues. With features like automated notifications, detailed request history, and a user-friendly interface, the ticketing system facilitates efficient problem-solving and improves overall customer satisfaction.`,
+    previewImage: work2,
     technologies: [
-      "Angular",
-      "PrimeNG",
-      "NodeJS",
-      "NestJS",
-      "MongoDB",
-      "Microsoft Azure DevOps",
-      "Google Compute Engine",
-      "Google Cloud Storage",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Ajax",
+      "PHP",
+      "MySQL",
+      "APACHE Server",
+      "XAMPP",
     ],
     link: "",
     repositoryLink: "",
   },
   {
-    title: "Macktails",
-    description: `Online menu for a mocktail business, seamlessly blending creativity and functionality to provide users with an enticing platform to explore an array of refreshing mocktail offerings.`,
-    previewImage: work2,
-    technologies: ["React JS", "Materialize CSS", "Github Deployments"],
-    link: "https://macktails-menu.github.io/",
+    title: "Watch Catalog",
+    description: `The Watch Catalog System is a user-friendly web application designed to showcase a diverse range of watches, allowing users to browse, filter, and search for their ideal timepieces. With features such as detailed product descriptions and high-resolution images, this system provides a comprehensive shopping experience.`,
+    previewImage: work3,
+    technologies: ["ASP.NET MVC", "ASP.NET Web API", "Entity Framework", "Azure SQL Database", "Azure App Service", "Swagger/APIM"],
+    link: "https://garywatchcatalogui.azurewebsites.net/",
     repositoryLink: "",
   },
 ];

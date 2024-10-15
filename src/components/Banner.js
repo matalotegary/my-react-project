@@ -16,7 +16,7 @@ const Banner = () => {
         <div className=" h-4/5 ml-auto mr-auto max-w-screen-lg items-center md:flex md:flex-row md:justify-between">
           <div className="flex flex-col gap-4">
             <h1 className="text-5xl flex-grow">Hello, I'm Gary </h1>
-            <h1 className="text-5xl flex-grow mb-6">a JavaScript Developer</h1>
+            <h1 className="text-5xl flex-grow mb-6">a .NET Developer</h1>
             <button
               className="bg-blue-700 rounded-xl p-1 text-white text-xs w-28 h-12"
               onClick={handleDownload}
